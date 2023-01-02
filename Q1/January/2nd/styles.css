@@ -1,0 +1,82 @@
+body{
+    font-family: "Montserrat",sans-serif;
+    margin:0;
+}
+
+#product-overview{
+    background-color: #ff166b;
+}
+
+h1{
+    color:white;
+    font-family: "Open Sans",sans-serif;
+    box-sizing: border-box;
+    width:300px;
+    height:100px;
+    padding:10px;
+    margin:0;
+}
+
+.section-title {
+    color:#2ddf5c;
+}
+
+.nav-header{
+    width: 100%;
+    background-color: #14cc60;
+    padding: 3px 5px;
+}
+
+.nav-header > div,.main-nav{
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.nav-header div a{
+    color: #0e4f1f;
+    text-decoration: none;
+    font-weight: bold;
+    font-size:25px;
+}
+
+.main-nav{
+    width: calc(100% - 80px);
+    text-align: right;
+}
+
+.main-nav__items{
+    margin:0;
+    padding:0;
+    list-style: none;
+}
+
+.main-nav__item{
+    display: inline-block;
+    padding: 0 20px;
+}
+.main-nav__item a{
+    font-weight: bold;
+    text-decoration: none;
+    color: #0e4f1f;
+}
+.main-nav__item a:hover,.main-nav__item a:active{
+    color:#f3f3f3;
+}
+
+.main-nav__button{
+    background-color: #ff166b;
+    width: 150px;   
+    border:none;
+    border-radius: 15px;
+    height: 35px;
+}
+.main-nav__button a{
+    color:#f3f3f3;
+}
+.main-nav__button:hover,
+.main-nav__button:active,
+.main-nav__button a:active,
+.main-nav__button a:hover{
+    color:#ff166b;
+    background-color: #f3f3f3;
+}
