@@ -1,0 +1,27 @@
+.main-box{
+    background-color: goldenrod;
+    width: 50%;
+    height: 300px;
+    margin: 15px 10px 5px 20px;
+    padding: 5px 10px 15px 10px;
+    border: 3px dotted blue;
+    display: inline-block;
+    box-sizing: border-box;
+    /* Uncomment for task #7 */
+    /* display:none; */
+}
+.main-box_1{
+    background-color: green;
+    width:35%;
+    height:300px;
+    margin:15px 10px 5px 20px;
+    padding:5px 10px 15px 10px;
+    border:3px dotted blue;
+    display: inline-block;
+}
+
+.main-box_1:hover{
+    background-color: blueviolet;
+    color:whitesmoke;
+    border: 3px groove red;
+}
