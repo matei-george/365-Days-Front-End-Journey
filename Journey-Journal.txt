@@ -1,19 +1,28 @@
             ===     This journal will describe and document the entire journey during the 365 days of code :)   ===
 
-December 31st 2022
------------------- 
+December 31st 2022 | Sat |
+--------------------------
 Creation of this repository organized in classic corporate Quarters. I've already written down my goals for January and hope I will achieve as much as I can of them. My goal is to achieve everything in that list, but given the fact that life always changes, I will be satisfied with a 80-90% completion grade.
 
 I wish me and my beautiful girlfriend, Teo, the best and hope this year, 2023 will be a productive, lovely and insane year. :)
 
 
-January 1st 2023
-----------------
+January 1st 2023 | Sun |
+------------------------
 Didn't really code much. I picked a new theme for VSCode and resolve some issues regarding a CSS linkage to HMTL. I will start learning more from the CSS Udemy Course I bought tomorrow. Hope I will learn as much as I can. I also picked the materials I need for upcoming Uni projects that I really need to work on. 
 Tried out a web hosting service for the first time. Doesn't seem like much, cuz has its own FTP service and didn't really need to use external software.
 Hope I will master the 2 sections I set up this week. Will try my best to master CSS for as much as I can at the very least 1 hour/day.
 My goal for this vacay week is to study it for 3-4 hours daily.
 
 
-January 2nd 2023
-----------------
+January 2nd 2023 | Mon |
+------------------------
+Learned quite a bit of information. Today was all about the Box Model, how it works, what features does it have and how does it presents. Learned quite a bit about width, height, block, inline, inline-block display, margin, padding and so on. Quite a bit of information to remember and understand, but I'm sure I'll be better as time goes on and practice as much as I can.
+I really want to get comfortable understanding and using the box model, so for this week I will practice it and revisit my notes as much as I can. 
+I really want to do it though for around 3-4 hours, I think it will be enough to understand and work out the box model.
+I want to improve my styling as well as writing good code. Want to improve styling as well improve learning.
+And also I have to start working on uni projects and gather data and information.
+I had some doubt moments regarding some issues I didn't really understand at first. I'm sure this is fine, don't this there's anybody that actually understood anything from the start, without trying. I'm sure will try :)
+
+January 3rd 2023 | Mar |
+------------------------
