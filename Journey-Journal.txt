@@ -31,3 +31,6 @@ Didn't really code a bit, if i'm honest. Focused on family and personal stuff. M
 
 January 4th 2023 | Wed |
 ------------------------
+Didn't code quite a lot because I helped my family prepare for an important event. Doing some physical activity really is going to help me. I also adjusted my schedule and studying time for each goal and task I have in mind, since studying for 4 hours daily the box model isn't really going to do me any favour, because I will get bored easily.
+Starting tomorrow, I will dedicate myself to around 2 hours this week of studying CSS, and implementing a good old morning walk to boost my morale and mood.
+See you tomorrow, future developer :).
