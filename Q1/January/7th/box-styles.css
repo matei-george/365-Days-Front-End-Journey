@@ -1,0 +1,91 @@
+/* Global reset for nice styling */
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+/* Base Styling */
+header h1{
+    text-align: center;
+    margin:10px 0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 45px;
+    text-decoration: gray wavy underline;
+}
+section{margin:25px 0;}
+div{
+    margin:15px 0;
+    width: 250px;
+    height: 50px;
+    margin-left: 650px;
+    color:#f3f3f3;
+}
+
+
+/* Sections Styling */
+.margin-item{
+    background-color: #849483;
+    border-radius: 10px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.margin-items div:first-of-type{
+    margin:150px 55px 25px 43px;
+}
+.margin-items div:last-of-type{
+    margin:293px 0 320px 25px;
+}
+
+.padding-item{
+    background-color: #8f95d3;
+    border-radius: 10px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.padding-items div:first-of-type{
+    padding:10px 50px;
+}
+.padding-items div:last-of-type{
+    padding:15px 5px 2px 0;
+}
+
+.border-item{
+    background-color: #424c55;
+    border-radius: 10px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.border-items div:first-of-type{
+    border: 4px double crimson;
+}
+.border-items div:last-of-type{
+    border: 5px groove yellowgreen;
+}
+
+.box-sizing-item{
+    background-color: #3a405a;
+    border-radius: 10px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.box-sizing-items div:first-of-type{
+    box-sizing: border-box;
+    margin:5px;
+    padding:10px;
+    border: 2px solid yellow;
+}
+.box-sizing-items div:last-of-type{
+    box-sizing: content-box;
+    margin:10px;
+    padding:25px;
+    border:3px double aqua;
+}
