@@ -48,3 +48,12 @@ See you tomorrow, future front end engineer :). Hope the remaining of the week w
 
 Be curious, not furious!
 Just DO IT!
+
+January 7th 2023 | Sat |
+------------------------
+Today I practiced the box model and how it works, using a quick little practice project which included different types of properties of the box model. I understood what border, margin, padding and content-area is, what box-sizing > border/content-box really means. It really isn't that difficult to understand in a broad high-level concept, however I will know that in the coming projects it will really teach me how to layout things.
+I can't wait to go see my girlfriend and talk to her about this stuff. Today I will do some OpenGL Lab because I really need it to understand how light works in OpenGL with different types of projection.
+
+Also, today was the first time I implemented a nice ~45-ish minute morning walk. Cold outside, but pretty nice considering I had a warm cup of Black Tea at the end.
+
+See you tomorrow with a productive day, future developer :)/
