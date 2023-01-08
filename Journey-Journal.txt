@@ -6,7 +6,6 @@ Creation of this repository organized in classic corporate Quarters. I've alread
 
 I wish me and my beautiful girlfriend, Teo, the best and hope this year, 2023 will be a productive, lovely and insane year. :)
 
-
 January 1st 2023 | Sun |
 ------------------------
 Didn't really code much. I picked a new theme for VSCode and resolve some issues regarding a CSS linkage to HMTL. I will start learning more from the CSS Udemy Course I bought tomorrow. Hope I will learn as much as I can. I also picked the materials I need for upcoming Uni projects that I really need to work on. 
@@ -56,4 +55,10 @@ I can't wait to go see my girlfriend and talk to her about this stuff. Today I w
 
 Also, today was the first time I implemented a nice ~45-ish minute morning walk. Cold outside, but pretty nice considering I had a warm cup of Black Tea at the end.
 
-See you tomorrow with a productive day, future developer :)/
+See you tomorrow with a productive day, future developer :)
+
+January 8th 2023 | Sun |
+------------------------
+I'm not coding today actually. I'm really preparing for the incoming projects and deadlines that I have. I'm wishing myself a nice productive weekend a strong following week.
+
+See you next week with strenght, productivity and ambition, future developer :).
