@@ -62,3 +62,10 @@ January 8th 2023 | Sun |
 I'm not coding today actually. I'm really preparing for the incoming projects and deadlines that I have. I'm wishing myself a nice productive weekend a strong following week.
 
 See you next week with strenght, productivity and ambition, future developer :).
+
+January 9th 2023 | Mon |
+------------------------
+Today was a quite productive and nice day. I learned quite a bit more about how selectors work, why choose them over ID sometimes, why to put multiple class selectors, the sorta importance of !important, the :not element and so on. Even though I still got a lot more work to do and a lot more to progress, it's about the journey, not about the destination.
+I'm quite happy and proud with my results for today. It may not seem as much, but it's something and it will grow if I put my mind to it.
+I will try my best to dedicate to a minimum of 1hr to learn and practice everyday, no matter how small I might do.
+See you tomorrow, future developer :).
