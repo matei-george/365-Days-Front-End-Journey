@@ -69,3 +69,15 @@ Today was a quite productive and nice day. I learned quite a bit more about how 
 I'm quite happy and proud with my results for today. It may not seem as much, but it's something and it will grow if I put my mind to it.
 I will try my best to dedicate to a minimum of 1hr to learn and practice everyday, no matter how small I might do.
 See you tomorrow, future developer :).
+
+January 10th 2023 | Tue |
+------------------------
+Today was honestly a very productive day when it come to practicing CSS. I created a small practice project website that had as a first priority to help me understand how almost every property and trick works in practice. 
+Even though the website isn't the most appealing and my skills clearily have A LOT more polishing and work to do, I'm quite proud of this 2hour-ish, maybe more project that improved my skills by a bit.
+Through this website I learned quite a bit more about organization, even though this is really something that I should improve on. 
+Overall, I really liked it. 2 actual productive CSS learning and practicing hours that helped me become a better developer.
+I still have some uni stuff left to do, like research some project and look at how a Java lab work and how it was created.
+Will take a break now and see what I can do next.
+
+See you tomorrow, future developer :).
+
