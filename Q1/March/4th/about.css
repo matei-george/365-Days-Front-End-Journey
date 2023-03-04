@@ -1,0 +1,46 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    font-size: 15px;
+}
+html,body{
+    width: auto;
+    height: 100%;
+    user-select: none;
+}
+.about{
+    height: 100%;
+    background-color: #b8c0ff;
+    font-family: 'Playfair Display',sans-serif;
+}
+.about h1{
+    color:#202122;
+    font-family: 'Gloock',sans-serif;
+    font-size: 3rem;
+    text-align: center;
+    font-weight: 500;
+    letter-spacing: 3px;
+    margin-bottom: 200px;
+}
+.about p{
+    font-size: 2rem;
+    text-align: center;
+    color:whitesmoke;
+}
+#pagina-principala a{
+    text-decoration: none;
+    font-size: 1.25rem;
+    color: #202122;
+}
+#pagina-principala{
+    display: block;
+    margin: 50px auto;
+    padding: 50px;
+    background-color: #b8c0ff;
+    border: none;
+    border-radius: 10%;
+}
+#pagina-principala:hover{
+    background-color: whitesmoke;
+    transition: all .5s;   
+}

@@ -1,0 +1,77 @@
+*{
+    box-sizing: border-box;
+    margin:0;
+    font-size: 15px;
+}
+html,body{
+    height: 100%;
+}
+.formular{
+    height: 100%;
+    background-color: #95afba;
+    font-family: 'Playfair Display',sans-serif;
+}
+.formular h1{
+    font-family: 'Gloock',sans-serif;
+    font-size: 2.5rem;
+    font-weight: 500;
+    color:#ffffea;
+    letter-spacing: 3px;
+    text-align: center;
+}
+.formular p{
+    font-size: 1.5rem;
+    color:#023047;
+    text-align: center;
+}
+.formular form{
+    width: max-content;
+    height: auto;
+    background-color: #023047;
+    border-radius: 10px;
+    margin:0 auto;
+    color:whitesmoke;
+}
+.formular label:nth-of-type(1),label:nth-of-type(2){
+    margin: 0 240px;
+}
+.formular input[type="text"]{
+    margin: 0 150px;
+}
+.formular form p{
+    color:whitesmoke;
+}
+.formular select{
+    margin: 0 150px;
+}
+#sumbit{
+    padding: 25px;
+    margin: 0 230px;
+    background-color: #023047;
+    border: none;
+    border-radius: 10px;
+    color: whitesmoke;
+}
+#sumbit:hover{
+    background-color: whitesmoke;
+    color: #023047;
+    transition: all .5s;
+}
+#Inapoi{
+    display: block;
+    margin:10px auto;
+    background-color: #95afba;
+    color: whitesmoke;
+    border: none;
+    border-radius: 10px;
+    padding: 25px;
+}
+#Inapoi a{
+    text-decoration: none;
+    color: whitesmoke;
+}
+#Inapoi:hover,#Inapoi a:hover{
+    background-color: whitesmoke;
+    color:#95afba;
+    transition: all .5s;
+}

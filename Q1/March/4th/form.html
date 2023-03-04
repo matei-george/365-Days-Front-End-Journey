@@ -1,0 +1,49 @@
+<!-- TODO - Pagina de formular care sa contina urmatoarele campuri
+        nume,prenume,tipul de contact, descrierea requestului
+-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <!-- Font :: Playfair Display -->
+      <link rel="preconnect" href="https://fonts.googleapis.com">
+      <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+      <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;700&display=swap" rel="stylesheet">
+      <!-- Font Gloock -->
+      <link rel="preconnect" href="https://fonts.googleapis.com">
+      <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+      <link href="https://fonts.googleapis.com/css2?family=Gloock&family=Playfair+Display:wght@400;500;700&display=swap" rel="stylesheet">
+      <!-- Stylesheet -->
+      <link rel="stylesheet" href="form.css">
+    <title>Contact</title>
+</head>
+<body>
+    <section class="formular">
+        <h1>Contact</h1>
+        <p>Doresti sa oferi feedback? Minunat!</p>
+        <p>Completeaza formularul de mai jos si un ticket va fi creat in cel mai scurt timp posibil.</p>
+        <form action="index.html">
+            <label for="nume">Nume : </label> <br>
+            <input type="text" name="nume" id="nume" required> <br>
+            <label for="nume">Prenume : </label> <br>
+            <input type="text" name="prenume" id="prenume" required> <br>
+            <select name="tip-contact" id="contact" required> 
+                <option value="first" disabled selected>Selecteaza tipul de contact</option>
+                <option value="second">Problema tehnica</option>
+                <option value="second">Am nelamuriri</option>
+                <option value="second">Cerere</option>
+            </select> <br>
+            <p id="ticket">Doresti crearea unui ticket separat?</p>
+            <label for="opt-yes">Da</label>
+            <input type="radio" name="optiune" id="opt-yes"> <br>
+            <label for="opt-no">Nu</label>
+            <input type="radio" name="optiune" id="opt-no"> <br>
+            <textarea name="descriere" id="desc" cols="65" rows="10" placeholder="Descrie pe scurt tipul de problema." required></textarea> <br>
+            <button id="sumbit">Submit</button>
+        </form>
+        <button id="Inapoi"><a href="index.html">Inapoi</a></button>
+    </section>
+</body>
+</html>
